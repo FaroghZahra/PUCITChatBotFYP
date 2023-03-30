@@ -30,6 +30,9 @@ Classification is a predictive modeling problem where the class label is anticip
 ### Ham Spam Detection:
 Detecting email text as Spam or Ham using Naive Bayes.
 
+### Heart Disease Detection:
+Detecting whether patient has heart disease or not using Logistic Regression.
+
 ## Unsupervised Machine Learning:
 Unsupervised learning is a type of algorithm that learns patterns from untagged data. Following topics are covered under it's domain.  
 
